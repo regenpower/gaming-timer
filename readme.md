@@ -11,3 +11,5 @@ Current plan:
 3. Make it so you can select the alarm sound that plays when the timer is up
 4. ????
 5. Profit
+
+Made in python 3.13
